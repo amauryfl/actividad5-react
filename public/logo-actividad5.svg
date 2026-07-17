@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<rect width="240" height="240" rx="44" fill="#4263eb"/>
+<circle cx="120" cy="120" r="72" fill="#ffffff" opacity="0.16"/>
+<path d="M72 92h96v56H72z" fill="#ffffff"/>
+<text x="120" y="184" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#ffffff">React</text>
+</svg>
